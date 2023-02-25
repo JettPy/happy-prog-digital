@@ -2,7 +2,7 @@
 
 Список уроков:  
 [Урок 1](lesson1_classes): Классы  
-Урок 2: TODO  
+[Урок 2](lesson2_methods): Методы объектов  
 Урок 3: TODO  
 Урок 4: TODO  
 Урок 5: TODO  

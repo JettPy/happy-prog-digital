@@ -9,8 +9,8 @@
 Урок 6: TODO  
 Урок 7: TODO  
 Урок 8: TODO  
-[Урок 9](lesson9_while): цикл while  
-Урок 10: TODO  
+[Урок 9](lesson9_while): Цикл while  
+[Урок 10](lesson10_algorithms): Алгоритмы. Сортировки  
 Урок 11: TODO  
 Урок 12: TODO  
 Урок 13: TODO  
