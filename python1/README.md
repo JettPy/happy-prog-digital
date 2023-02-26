@@ -1,8 +1,8 @@
 # Курс Python 1
 
 Список уроков:  
-Урок 1: TODO  
-Урок 2: TODO  
+[Урок 1](lesson1_vars): Переменные  
+[Урок 2](lesson2_ifelse): Ветвление if-else  
 Урок 3: TODO  
 Урок 4: TODO  
 Урок 5: TODO  
