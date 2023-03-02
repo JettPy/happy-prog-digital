@@ -6,7 +6,7 @@
 Урок 3: TODO  
 Урок 4: TODO  
 Урок 5: TODO  
-Урок 6: TODO  
+[Урок 6](lesson6_entry): Виджет поле ввода Entry  
 [Урок 7](lesson7_listbox): Виджет список Listbox  
 Урок 8: TODO  
 Урок 8: TODO  

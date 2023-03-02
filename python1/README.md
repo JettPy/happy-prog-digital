@@ -11,7 +11,7 @@
 Урок 8: TODO  
 [Урок 9](lesson9_while): Цикл while  
 [Урок 10](lesson10_algorithms): Алгоритмы. Сортировки  
-Урок 11: TODO  
+[Урок 11](lesson11_tuple): Кортежи tuple. Бинарный поиск  
 Урок 12: TODO  
 Урок 13: TODO  
 Урок 14: TODO  
