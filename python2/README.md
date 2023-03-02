@@ -3,7 +3,7 @@
 Список уроков:  
 [Урок 1](lesson1_classes): Классы  
 [Урок 2](lesson2_methods): Методы объектов  
-Урок 3: TODO  
+[Урок 3](lesson3_inherit): Наследование и абстракция  
 Урок 4: TODO  
 Урок 5: TODO  
 [Урок 6](lesson6_entry): Виджет поле ввода Entry  
