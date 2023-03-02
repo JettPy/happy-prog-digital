@@ -1,13 +1,13 @@
 # Курс Python 2
 
 Список уроков:  
-[Урок 1](lesson1-classes): Классы  
-[Урок 2](lesson2-methods): Методы объектов  
-[Урок 3](lesson3-inherit): Наследование и абстракция  
+[Урок 1](lesson01_classes): Классы  
+[Урок 2](lesson02_methods): Методы объектов  
+[Урок 3](lesson03_inherit): Наследование и абстракция  
 Урок 4: TODO  
 Урок 5: TODO  
-[Урок 6](lesson6-entry): Виджет поле ввода Entry  
-[Урок 7](lesson7-listbox): Виджет список Listbox  
+[Урок 6](lesson06_entry): Виджет поле ввода Entry  
+[Урок 7](lesson07_listbox): Виджет список Listbox  
 Урок 8: TODO  
 Урок 8: TODO  
 Урок 10: TODO  
