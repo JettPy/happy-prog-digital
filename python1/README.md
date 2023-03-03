@@ -8,7 +8,7 @@
 Урок 5: TODO  
 Урок 6: TODO  
 Урок 7: TODO  
-Урок 8: TODO  
+[Урок 8](lesson08_project): Проект записная книжка  
 [Урок 9](lesson09_while): Цикл while  
 [Урок 10](lesson10_algorithms): Алгоритмы. Сортировки  
 [Урок 11](lesson11_tuple): Кортежи tuple. Бинарный поиск  
