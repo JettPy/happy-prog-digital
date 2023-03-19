@@ -13,7 +13,7 @@
 [Урок 10](lesson10_algorithms): Алгоритмы. Сортировки  
 [Урок 11](lesson11_tuple): Кортежи tuple. Бинарный поиск  
 [Урок 12](lesson12_dict): Словари dict  
-Урок 13: TODO  
+[Урок 13](lesson13_set): Множества set  
 Урок 14: TODO  
 Урок 15: TODO  
 Урок 16: TODO  
