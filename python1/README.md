@@ -4,8 +4,8 @@
 [Урок 1](lesson01_vars): Переменные  
 [Урок 2](lesson02_ifelse): Ветвление if-else  
 [Урок 3](lesson03_for): Цикл for  
-Урок 4: TODO  
-Урок 5: TODO  
+[Урок 4](lesson04_turtle): Черепашка turtle  
+[Урок 5](lesson05_turtle2): Дополнительные команды turtle  
 [Урок 6](lesson06_str): Строки str  
 [Урок 7](lesson07_list): Списки list  
 [Урок 8](lesson08_project): Проект записная книжка  
