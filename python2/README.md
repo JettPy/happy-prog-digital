@@ -12,7 +12,7 @@
 [Урок 9](lesson09_project): Проект калькулятор  
 [Урок 10](lesson10_canvas): Виджет холст Canvas  
 [Урок 11](lesson11_identifiers): Идентификаторы  
-Урок 12: TODO  
+[Урок 12](lesson12_animation): Анимации  
 Урок 13: TODO  
 Урок 14: TODO  
 Урок 15: TODO  
