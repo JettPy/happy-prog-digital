@@ -49,7 +49,7 @@ print(list(countries.keys()))  # Вывод: ['Москва', 'Минск']
 print(list(countries.items()))  # Вывод: [('Москва', 'Россия'), ('Минск', 'Белорусь')]
 
 # Например, так можно перебирать в цикле сразу и ключи и значения:
-for key, value in countries . items():
+for key, value in countries.items():
     print(f"Столица {value} - {key}")
 
 
