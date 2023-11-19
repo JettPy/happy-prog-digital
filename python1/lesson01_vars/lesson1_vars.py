@@ -123,11 +123,11 @@ print(False and False)  # вывод: False
 
 # a ИЛИ b - если a или b ИСТИНА, вернет ИСТИНУ(True),
 # в противном случае вернет ЛОЖЬ(False)
-print(a and b)  # вывод: True
-print(True and True)  # вывод: True
-print(True and False)  # вывод: True
-print(False and True)  # вывод: True
-print(False and False)  # вывод: False
+print(a or b)  # вывод: True
+print(True or True)  # вывод: True
+print(True or False)  # вывод: True
+print(False or True)  # вывод: True
+print(False or False)  # вывод: False
 
 # НЕ a - вернет ИСТИНУ(True), если a = ЛОЖЬ(False)
 # или ЛОЖЬ(False), если a = ИСТИНА(True)
